@@ -8,12 +8,11 @@ Table of contents
    * [Table of contents](#table-of-contents)
    * [Code description](#code-description)
    * [Graphical results](#graphical-results)
-   Polish Language:
    * [Opis w języku polskim](#opis-w-języku-polskim)
    * [Graficzne przedstawienie wyników](#graficzne-przedstawienie-wyników)
 <!--te-->
 
-(ENG) Code description
+Code description
 ======================
 
 *Project contains 7 methods and one main file which uses that methods. A short description is provided below:*
@@ -27,7 +26,7 @@ Table of contents
 7. Method "rysuj" - this method provides drawing a figures. It helps to visualise learning process - we can see a learning and testing data and response of our network.
 8. Main program file "mlpTest" - collect user parrameters (typing on keyboard) and creates choosen MLP stucture by learning it on learning data and after that - show results for testing data. The final result of this program is showing a plots which present MLP learning process. This program uses every of previous methods.
 
-(ENG) Graphical results
+Graphical results
 =======================
 
 * Learning data. Figure below presents learning data of choosen quadratic function:
@@ -59,7 +58,7 @@ As can be seen from the above figures, neural network can approximate shape of q
 If you want to learn more, contact me on github @MarcinJ7.
 
 
-(PL) Opis w języku polskim
+Opis w języku polskim
 ==========================
 
 Krótki opis każdej z wykorzystanych funkcji : 
@@ -74,7 +73,7 @@ Krótki opis każdej z wykorzystanych funkcji :
 7. Funkcja „rysuj” – zadaniem tej funkcji jest odpowiednie wyrysowanie wykresu – dla danych wejść i wyjść. Funkcja również dodaje odpowiedni tytuł oraz legendę do powstałego wykresu. Dzięki temu interpretacja uzyskanych wyników jest bardzo łatwa. 
 8. Plik główny programu „mlpTest” –  plik ten tworzy cały program – na podstawie wprowadzanych danych wywoływane są powyższe funkcje, prowadząc docelowo do wyświetlenia wykresów prezentujących uczenie się sieci neuronowej.  
 
-(PL) Graficzne przedstawienie wyników
+Graficzne przedstawienie wyników
 =====================================
 
 * Dane uczące (trzy wybrane funkcje kwadratowe)
