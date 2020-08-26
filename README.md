@@ -62,19 +62,29 @@ Krótki opis każdej z wykorzystanych funkcji :
 Graficzne przedstawienie wyników
 
 * Dane uczące (trzy wybrane funkcje kwadratowe)
+
 ![Image](Images/learningData.png)
 
+
 * Odpowiedź sieci tuż po inicjalizacji wag
+
 ![Image](Images/afterInit.png)
 
+
 * Odpowiedź sieci po nauce 
+
 ![Image](Images/learningDataAfterLearn.png)
 
+
 * Dane testowe
+
 ![Image](Images/testData.png)
 
+
 * Odpowiedź sieci na dane testowe
+
 ![Image](Images/testResult.png)
+
 
 Jak widać na powyższych zrzutach ekrenu, sieć pozwala na aproksymację kształtu funkcji z wykorzystaniem dostepnych danych. Parametry sieci neuronowej dobierane były metodą prób i błędów.
 
