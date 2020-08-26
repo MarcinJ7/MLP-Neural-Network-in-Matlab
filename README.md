@@ -6,10 +6,10 @@ Table of contents
 
 <!--ts-->
    * [Table of contents](#table-of-contents)
-   * [Code description](#Code description)
-   * [Graphical results](#Graphical results)
-   * [Opis w języku polskim](#Opis w języku polskim)
-   * [Graficzne przedstawienie wyników](#Graficzne przedstawienie wyników)
+   * [Code description](#code-description)
+   * [Graphical results](#graphical-results)
+   * [Opis w języku polskim](#opis-polskim)
+   * [Graficzne przedstawienie wyników](#graficzne-wyniki)
 <!--te-->
 
 Code description
