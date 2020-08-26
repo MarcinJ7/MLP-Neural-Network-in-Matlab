@@ -1,7 +1,19 @@
 # MLP-Neural-Network-in-Matlab
 This repository includes implementation of MLP Neural Network structure. It also contains an example of learning and testing this network in quadratic function approximation problem.
 
-## Code description:
+Table of contents
+=================
+
+<!--ts-->
+   * [Table of contents](#table-of-contents)
+   * [Code description](#Code description)
+   * [Graphical results](#Graphical results)
+   * [Opis w języku polskim](#Opis w języku polskim)
+   * [Graficzne przedstawienie wyników](#Graficzne przedstawienie wyników)
+<!--te-->
+
+Code description
+================
 
 *Project contains 7 methods and one main file which uses that methods. A short description is provided below:*
 
@@ -14,7 +26,8 @@ This repository includes implementation of MLP Neural Network structure. It also
 7. Method "rysuj" - this method provides drawing a figures. It helps to visualise learning process - we can see a learning and testing data and response of our network.
 8. Main program file "mlpTest" - collect user parrameters (typing on keyboard) and creates choosen MLP stucture by learning it on learning data and after that - show results for testing data. The final result of this program is showing a plots which present MLP learning process. This program uses every of previous methods.
 
-Graphical results:
+Graphical results
+=================
 
 * Learning data. Figure below presents learning data of choosen quadratic function:
 
@@ -45,7 +58,8 @@ As can be seen from the above figures, neural network can approximate shape of q
 If you want to learn more, contact me on github @MarcinJ7.
 
 
-## Opis w języku polskim:
+Opis w języku polskim
+=====================
 
 Krótki opis każdej z wykorzystanych funkcji : 
 *W programie zostało wykorzystanych 7  funkcji. Mamy również jeden główny plik programu, w którym wykorzystywane są funkcje w celu uzyskania wyniku końcowego. Teraz pokrótce opiszę cel implementacji każdej z funkcji:*
@@ -60,6 +74,7 @@ Krótki opis każdej z wykorzystanych funkcji :
 8. Plik główny programu „mlpTest” –  plik ten tworzy cały program – na podstawie wprowadzanych danych wywoływane są powyższe funkcje, prowadząc docelowo do wyświetlenia wykresów prezentujących uczenie się sieci neuronowej.  
 
 Graficzne przedstawienie wyników
+================================
 
 * Dane uczące (trzy wybrane funkcje kwadratowe)
 
