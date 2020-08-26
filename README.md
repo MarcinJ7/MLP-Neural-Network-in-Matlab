@@ -5,11 +5,11 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Table of contents](#table-of-contents)
-   * [Code description](#code-description)
-   * [Graphical results](#graphical-results)
-   * [Opis w języku polskim](#opis-w-języku-polskim)
-   * [Graficzne przedstawienie wyników](#graficzne-przedstawienie-wyników)
+   * [Table of contents](#table-of-contents) (ENG)
+   * [Code description](#code-description) (ENG)
+   * [Graphical results](#graphical-results) (ENG)
+   * [Opis w języku polskim](#opis-w-języku-polskim) (PL)
+   * [Graficzne przedstawienie wyników](#graficzne-przedstawienie-wyników) (PL)
 <!--te-->
 
 Code description
