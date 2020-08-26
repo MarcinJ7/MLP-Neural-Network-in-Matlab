@@ -17,19 +17,29 @@ This repository includes implementation of MLP Neural Network structure. It also
 Graphical results:
 
 * Learning data. Figure below presents learning data of choosen quadratic function:
+
 ![Image](Images/learningData.png)
 
+
 * Figure below shows a response of neural network after initialization:
+
 ![Image](Images/afterInit.png)
 
+
 * Response of network after learning:
+
 ![Image](Images/learningDataAfterLearn.png)
 
+
 * Testing dataset is presented below:
+
 ![Image](Images/testData.png)
 
+
 * Results of neural network for testing data below:
+
 ![Image](Images/testResult.png)
+
 
 As can be seen from the above figures, neural network can approximate shape of quadratic function. The parametters of network were choosen by trial and error method.
 If you want to learn more, contact me on github @MarcinJ7.
