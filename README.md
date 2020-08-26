@@ -8,8 +8,8 @@ Table of contents
    * [Table of contents](#table-of-contents)
    * [Code description](#code-description)
    * [Graphical results](#graphical-results)
-   * [Opis w języku polskim](#opis-polskim)
-   * [Graficzne przedstawienie wyników](#graficzne-wyniki)
+   * [Opis w języku polskim](#opis-w-języku-polskim)
+   * [Graficzne przedstawienie wyników](#graficzne-przedstawienie-wyników)
 <!--te-->
 
 Code description
